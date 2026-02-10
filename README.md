@@ -68,6 +68,3 @@ This project was developed as part of academic training in Data Science and demo
 Abigail Lezcano  
 Data Science Student
 
-
-
-## 📁 Project Structure
